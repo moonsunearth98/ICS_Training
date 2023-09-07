@@ -1,0 +1,7 @@
+D:\Training_ICS\Assignment_2\Average_Value\Average_Value\bin\Debug\Average_Value.exe.config
+D:\Training_ICS\Assignment_2\Average_Value\Average_Value\bin\Debug\Average_Value.exe
+D:\Training_ICS\Assignment_2\Average_Value\Average_Value\bin\Debug\Average_Value.pdb
+D:\Training_ICS\Assignment_2\Average_Value\Average_Value\obj\Debug\Average_Value.csproj.AssemblyReference.cache
+D:\Training_ICS\Assignment_2\Average_Value\Average_Value\obj\Debug\Average_Value.csproj.CoreCompileInputs.cache
+D:\Training_ICS\Assignment_2\Average_Value\Average_Value\obj\Debug\Average_Value.exe
+D:\Training_ICS\Assignment_2\Average_Value\Average_Value\obj\Debug\Average_Value.pdb

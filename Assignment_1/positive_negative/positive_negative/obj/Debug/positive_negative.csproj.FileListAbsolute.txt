@@ -1,0 +1,6 @@
+D:\Training_ICS\positive_negative\positive_negative\bin\Debug\positive_negative.exe.config
+D:\Training_ICS\positive_negative\positive_negative\bin\Debug\positive_negative.exe
+D:\Training_ICS\positive_negative\positive_negative\bin\Debug\positive_negative.pdb
+D:\Training_ICS\positive_negative\positive_negative\obj\Debug\positive_negative.csproj.CoreCompileInputs.cache
+D:\Training_ICS\positive_negative\positive_negative\obj\Debug\positive_negative.exe
+D:\Training_ICS\positive_negative\positive_negative\obj\Debug\positive_negative.pdb

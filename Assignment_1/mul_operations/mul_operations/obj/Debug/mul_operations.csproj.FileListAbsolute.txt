@@ -1,0 +1,7 @@
+D:\Training_ICS\mul_operations\mul_operations\bin\Debug\mul_operations.exe.config
+D:\Training_ICS\mul_operations\mul_operations\bin\Debug\mul_operations.exe
+D:\Training_ICS\mul_operations\mul_operations\bin\Debug\mul_operations.pdb
+D:\Training_ICS\mul_operations\mul_operations\obj\Debug\mul_operations.csproj.AssemblyReference.cache
+D:\Training_ICS\mul_operations\mul_operations\obj\Debug\mul_operations.csproj.CoreCompileInputs.cache
+D:\Training_ICS\mul_operations\mul_operations\obj\Debug\mul_operations.exe
+D:\Training_ICS\mul_operations\mul_operations\obj\Debug\mul_operations.pdb
