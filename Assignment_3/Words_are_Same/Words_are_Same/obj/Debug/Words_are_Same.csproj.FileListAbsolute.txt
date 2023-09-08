@@ -1,0 +1,7 @@
+D:\Training_ICS\Assignment_3\Words_are_Same\Words_are_Same\bin\Debug\Words_are_Same.exe.config
+D:\Training_ICS\Assignment_3\Words_are_Same\Words_are_Same\bin\Debug\Words_are_Same.exe
+D:\Training_ICS\Assignment_3\Words_are_Same\Words_are_Same\bin\Debug\Words_are_Same.pdb
+D:\Training_ICS\Assignment_3\Words_are_Same\Words_are_Same\obj\Debug\Words_are_Same.csproj.AssemblyReference.cache
+D:\Training_ICS\Assignment_3\Words_are_Same\Words_are_Same\obj\Debug\Words_are_Same.csproj.CoreCompileInputs.cache
+D:\Training_ICS\Assignment_3\Words_are_Same\Words_are_Same\obj\Debug\Words_are_Same.exe
+D:\Training_ICS\Assignment_3\Words_are_Same\Words_are_Same\obj\Debug\Words_are_Same.pdb
