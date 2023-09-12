@@ -1,6 +1,6 @@
 ﻿//Que2:- Write a C# Sharp program that prints the multiplication table of a number as input.
 
-using System;
+/**using System;
 
 class Program
 {
@@ -16,4 +16,37 @@ class Program
             Console.ReadLine();
         }
     }
+}**/
+using System;
+
+class CharacterRemovalProgram
+{
+    static void Main()
+    {
+        Console.Write("Enter a word: ");
+        string word = Console.ReadLine();
+
+        Console.Write("Enter the position of the character to remove: ");
+        if (int.TryParse(Console.ReadLine(), out int position))
+        {
+            string result = RemoveCharacterAtPosition(word, position);
+            Console.WriteLine("Resulting word: " + result);
+        }
+        else
+        {
+            Console.WriteLine("Invalid position input. Please enter a valid integer.");
+        }
+
+        Console.ReadLine();
+    }
+
+    static string RemoveCharacterAtPosition(string input, int position)
+    {
+        if (position >= 0 && position < input.Length)
+        {
+            return input.Remove(position, 1);
+        }
+        return input;
+    }
 }
+
