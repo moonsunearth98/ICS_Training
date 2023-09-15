@@ -1,0 +1,7 @@
+D:\Training_ICS\Assignment_5\firstName_lastName_Class\firstName_lastName_Class\bin\Debug\firstName_lastName_Class.exe.config
+D:\Training_ICS\Assignment_5\firstName_lastName_Class\firstName_lastName_Class\bin\Debug\firstName_lastName_Class.exe
+D:\Training_ICS\Assignment_5\firstName_lastName_Class\firstName_lastName_Class\bin\Debug\firstName_lastName_Class.pdb
+D:\Training_ICS\Assignment_5\firstName_lastName_Class\firstName_lastName_Class\obj\Debug\firstName_lastName_Class.csproj.AssemblyReference.cache
+D:\Training_ICS\Assignment_5\firstName_lastName_Class\firstName_lastName_Class\obj\Debug\firstName_lastName_Class.csproj.CoreCompileInputs.cache
+D:\Training_ICS\Assignment_5\firstName_lastName_Class\firstName_lastName_Class\obj\Debug\firstName_lastName_Class.exe
+D:\Training_ICS\Assignment_5\firstName_lastName_Class\firstName_lastName_Class\obj\Debug\firstName_lastName_Class.pdb
