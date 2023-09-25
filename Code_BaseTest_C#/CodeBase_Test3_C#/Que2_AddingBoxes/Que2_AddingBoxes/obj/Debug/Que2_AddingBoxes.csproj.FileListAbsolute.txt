@@ -1,0 +1,7 @@
+D:\Training_ICS\Code_BaseTest_C#\CodeBase_Test3_C#\Que2_AddingBoxes\Que2_AddingBoxes\bin\Debug\Que2_AddingBoxes.exe.config
+D:\Training_ICS\Code_BaseTest_C#\CodeBase_Test3_C#\Que2_AddingBoxes\Que2_AddingBoxes\bin\Debug\Que2_AddingBoxes.exe
+D:\Training_ICS\Code_BaseTest_C#\CodeBase_Test3_C#\Que2_AddingBoxes\Que2_AddingBoxes\bin\Debug\Que2_AddingBoxes.pdb
+D:\Training_ICS\Code_BaseTest_C#\CodeBase_Test3_C#\Que2_AddingBoxes\Que2_AddingBoxes\obj\Debug\Que2_AddingBoxes.csproj.AssemblyReference.cache
+D:\Training_ICS\Code_BaseTest_C#\CodeBase_Test3_C#\Que2_AddingBoxes\Que2_AddingBoxes\obj\Debug\Que2_AddingBoxes.csproj.CoreCompileInputs.cache
+D:\Training_ICS\Code_BaseTest_C#\CodeBase_Test3_C#\Que2_AddingBoxes\Que2_AddingBoxes\obj\Debug\Que2_AddingBoxes.exe
+D:\Training_ICS\Code_BaseTest_C#\CodeBase_Test3_C#\Que2_AddingBoxes\Que2_AddingBoxes\obj\Debug\Que2_AddingBoxes.pdb
