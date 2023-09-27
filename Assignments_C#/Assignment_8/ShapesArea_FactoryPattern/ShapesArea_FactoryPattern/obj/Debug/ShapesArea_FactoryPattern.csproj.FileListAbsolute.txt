@@ -1,0 +1,6 @@
+D:\Training_ICS\Assignments_C#\Assignment_8\ShapesArea_FactoryPattern\ShapesArea_FactoryPattern\bin\Debug\ShapesArea_FactoryPattern.exe.config
+D:\Training_ICS\Assignments_C#\Assignment_8\ShapesArea_FactoryPattern\ShapesArea_FactoryPattern\bin\Debug\ShapesArea_FactoryPattern.exe
+D:\Training_ICS\Assignments_C#\Assignment_8\ShapesArea_FactoryPattern\ShapesArea_FactoryPattern\bin\Debug\ShapesArea_FactoryPattern.pdb
+D:\Training_ICS\Assignments_C#\Assignment_8\ShapesArea_FactoryPattern\ShapesArea_FactoryPattern\obj\Debug\ShapesArea_FactoryPattern.csproj.CoreCompileInputs.cache
+D:\Training_ICS\Assignments_C#\Assignment_8\ShapesArea_FactoryPattern\ShapesArea_FactoryPattern\obj\Debug\ShapesArea_FactoryPattern.exe
+D:\Training_ICS\Assignments_C#\Assignment_8\ShapesArea_FactoryPattern\ShapesArea_FactoryPattern\obj\Debug\ShapesArea_FactoryPattern.pdb
