@@ -1,6 +1,0 @@
-D:\Training_ICS\CodeBase_Test_C#\Multiplication_Table\Multiplication_Table\bin\Debug\Multiplication_Table.exe.config
-D:\Training_ICS\CodeBase_Test_C#\Multiplication_Table\Multiplication_Table\bin\Debug\Multiplication_Table.exe
-D:\Training_ICS\CodeBase_Test_C#\Multiplication_Table\Multiplication_Table\bin\Debug\Multiplication_Table.pdb
-D:\Training_ICS\CodeBase_Test_C#\Multiplication_Table\Multiplication_Table\obj\Debug\Multiplication_Table.csproj.CoreCompileInputs.cache
-D:\Training_ICS\CodeBase_Test_C#\Multiplication_Table\Multiplication_Table\obj\Debug\Multiplication_Table.exe
-D:\Training_ICS\CodeBase_Test_C#\Multiplication_Table\Multiplication_Table\obj\Debug\Multiplication_Table.pdb
