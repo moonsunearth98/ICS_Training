@@ -1,0 +1,6 @@
+D:\Training_ICS\CodeBase_Test2_C#\Student_Grades_Checker\Student_Grades_Checker\bin\Debug\Student_Grades_Checker.exe.config
+D:\Training_ICS\CodeBase_Test2_C#\Student_Grades_Checker\Student_Grades_Checker\bin\Debug\Student_Grades_Checker.exe
+D:\Training_ICS\CodeBase_Test2_C#\Student_Grades_Checker\Student_Grades_Checker\bin\Debug\Student_Grades_Checker.pdb
+D:\Training_ICS\CodeBase_Test2_C#\Student_Grades_Checker\Student_Grades_Checker\obj\Debug\Student_Grades_Checker.csproj.CoreCompileInputs.cache
+D:\Training_ICS\CodeBase_Test2_C#\Student_Grades_Checker\Student_Grades_Checker\obj\Debug\Student_Grades_Checker.exe
+D:\Training_ICS\CodeBase_Test2_C#\Student_Grades_Checker\Student_Grades_Checker\obj\Debug\Student_Grades_Checker.pdb
