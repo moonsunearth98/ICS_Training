@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using CaseStudy1;
+using CaseStudy2;
+
 
 namespace StudentManagementSystem
 {
-    public class Student
+   /** public class Student
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -15,7 +18,7 @@ namespace StudentManagementSystem
             Name = name;
             DateOfBirth = dateOfBirth;
         }
-    }
+   
     public class Course
     {
         public int CourseId { get; set; }
@@ -37,7 +40,7 @@ namespace StudentManagementSystem
             Course = course;
             EnrollmentDate = enrollmentDate;
         }
-    }
+    }**/
     public class AppEngine
     {
         private List<Student> students = new List<Student>();
@@ -210,7 +213,7 @@ namespace StudentManagementSystem
                 }
             }
         }
-       private void RegisterStudent()
+        private void RegisterStudent()
         {
             Console.Clear();
             Console.Write("Enter Student ID: ");
@@ -226,7 +229,7 @@ namespace StudentManagementSystem
             {
                 Console.WriteLine("Invalid input. Please enter a valid number.");
             }
-       }
+        }
         private void IntroduceNewCourse()
         {
             Console.Clear();
@@ -306,7 +309,7 @@ namespace StudentManagementSystem
             Console.ReadLine();
         }
     }
-    public class App   
+    public class App
     {
         public static void Main(string[] args)
         {

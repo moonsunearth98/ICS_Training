@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAD7A07E-6286-43E7-850B-D9AC3EE69148}</ProjectGuid>
+    <ProjectGuid>{AE52BED3-8302-4979-8481-457BA45A2D68}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CaseStudy_3and4</RootNamespace>
     <AssemblyName>CaseStudy_3and4</AssemblyName>
@@ -33,6 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CaseStudy_1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\CaseStudy_2\CaseStudy_2\bin\Debug\CaseStudy_1.exe</HintPath>
+    </Reference>
+    <Reference Include="CaseStudy_2">
+      <HintPath>..\..\CaseStudy_2\CaseStudy_2\bin\Debug\CaseStudy_2.exe</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
