@@ -1,7 +1,0 @@
-C:\Users\prachib\source\repos\OOPs_Saledetail_question\OOPs_Saledetail_question\bin\Debug\OOPs_Saledetail_question.exe.config
-C:\Users\prachib\source\repos\OOPs_Saledetail_question\OOPs_Saledetail_question\bin\Debug\OOPs_Saledetail_question.exe
-C:\Users\prachib\source\repos\OOPs_Saledetail_question\OOPs_Saledetail_question\bin\Debug\OOPs_Saledetail_question.pdb
-C:\Users\prachib\source\repos\OOPs_Saledetail_question\OOPs_Saledetail_question\obj\Debug\OOPs_Saledetail_question.csproj.AssemblyReference.cache
-C:\Users\prachib\source\repos\OOPs_Saledetail_question\OOPs_Saledetail_question\obj\Debug\OOPs_Saledetail_question.csproj.CoreCompileInputs.cache
-C:\Users\prachib\source\repos\OOPs_Saledetail_question\OOPs_Saledetail_question\obj\Debug\OOPs_Saledetail_question.exe
-C:\Users\prachib\source\repos\OOPs_Saledetail_question\OOPs_Saledetail_question\obj\Debug\OOPs_Saledetail_question.pdb

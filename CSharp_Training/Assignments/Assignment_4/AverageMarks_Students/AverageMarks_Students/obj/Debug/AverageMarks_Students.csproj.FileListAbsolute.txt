@@ -1,7 +1,0 @@
-D:\Training_ICS\Assignment_4\AverageMarks_Students\AverageMarks_Students\bin\Debug\AverageMarks_Students.exe.config
-D:\Training_ICS\Assignment_4\AverageMarks_Students\AverageMarks_Students\bin\Debug\AverageMarks_Students.exe
-D:\Training_ICS\Assignment_4\AverageMarks_Students\AverageMarks_Students\bin\Debug\AverageMarks_Students.pdb
-D:\Training_ICS\Assignment_4\AverageMarks_Students\AverageMarks_Students\obj\Debug\AverageMarks_Students.csproj.CoreCompileInputs.cache
-D:\Training_ICS\Assignment_4\AverageMarks_Students\AverageMarks_Students\obj\Debug\AverageMarks_Students.exe
-D:\Training_ICS\Assignment_4\AverageMarks_Students\AverageMarks_Students\obj\Debug\AverageMarks_Students.pdb
-D:\Training_ICS\Assignment_4\AverageMarks_Students\AverageMarks_Students\obj\Debug\AverageMarks_Students.csproj.AssemblyReference.cache

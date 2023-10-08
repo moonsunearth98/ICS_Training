@@ -1,6 +1,0 @@
-C:\Users\prachib\source\repos\OOPs_Custmer_Q2\OOPs_Custmer_Q2\bin\Debug\OOPs_Custmer_Q2.exe.config
-C:\Users\prachib\source\repos\OOPs_Custmer_Q2\OOPs_Custmer_Q2\bin\Debug\OOPs_Custmer_Q2.exe
-C:\Users\prachib\source\repos\OOPs_Custmer_Q2\OOPs_Custmer_Q2\bin\Debug\OOPs_Custmer_Q2.pdb
-C:\Users\prachib\source\repos\OOPs_Custmer_Q2\OOPs_Custmer_Q2\obj\Debug\OOPs_Custmer_Q2.csproj.CoreCompileInputs.cache
-C:\Users\prachib\source\repos\OOPs_Custmer_Q2\OOPs_Custmer_Q2\obj\Debug\OOPs_Custmer_Q2.exe
-C:\Users\prachib\source\repos\OOPs_Custmer_Q2\OOPs_Custmer_Q2\obj\Debug\OOPs_Custmer_Q2.pdb
