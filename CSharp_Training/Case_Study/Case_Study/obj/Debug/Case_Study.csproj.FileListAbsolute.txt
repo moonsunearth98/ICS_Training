@@ -1,0 +1,7 @@
+D:\Training_ICS\CSharp_Training\Case_Study\Case_Study\bin\Debug\Case_Study.exe.config
+D:\Training_ICS\CSharp_Training\Case_Study\Case_Study\bin\Debug\Case_Study.exe
+D:\Training_ICS\CSharp_Training\Case_Study\Case_Study\bin\Debug\Case_Study.pdb
+D:\Training_ICS\CSharp_Training\Case_Study\Case_Study\obj\Debug\Case_Study.csproj.AssemblyReference.cache
+D:\Training_ICS\CSharp_Training\Case_Study\Case_Study\obj\Debug\Case_Study.csproj.CoreCompileInputs.cache
+D:\Training_ICS\CSharp_Training\Case_Study\Case_Study\obj\Debug\Case_Study.exe
+D:\Training_ICS\CSharp_Training\Case_Study\Case_Study\obj\Debug\Case_Study.pdb
