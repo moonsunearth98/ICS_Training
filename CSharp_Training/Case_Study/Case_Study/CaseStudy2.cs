@@ -29,11 +29,23 @@ namespace CaseStudy2
         }
     }
 
+
     public class AppEngine
     {
         private List<Student> students = new List<Student>();
         private List<Course> courses = new List<Course>();
         private List<Enroll> enrollments = new List<Enroll>();
+
+         public AppEngine()
+         {
+        // Hard-code the creation of six courses
+        courses.Add(new Course(1, "SQL"));
+        courses.Add(new Course(2, "Python"));
+        courses.Add(new Course(3, "C#"));
+        courses.Add(new Course(4, "Java"));
+        courses.Add(new Course(5, "SSIS"));
+        courses.Add(new Course(6, "Perl"));
+         }
 
         public void IntroduceCourse(Course course)
         {
@@ -96,3 +108,5 @@ namespace CaseStudy2
         }
     }
 }
+
+
