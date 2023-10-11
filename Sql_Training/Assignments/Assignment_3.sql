@@ -93,10 +93,12 @@ select ename,sal,comm from employees where comm>(sal*1.10)
 select ename from employees where ename like '%L%L' and deptno=30 or mrg_id=7782
 
 -------------16. Display the names of employees with experience of over 30 years and under 40 yrs.Count the total number of employees. 
-------select ename from employees where (2023-YEAR(hiredate))>30 and (2023-YEAR(hiredate))<40
+select ename from employees where ('2023'-YEAR(hiredate))>30 and ('2023'-YEAR(hiredate))<40
+select count(*) as "total number of employee" from employees where (('2023'-YEAR(hiredate))>30 and ('2023'-YEAR(hiredate))<40)
 
 -------------17. Retrieve the names of departments in ascending order and their employees in descending order.
 select ename,deptno from employees where ename is not null order by deptno asc, ename desc
 
 ------------18. Find out experience of MILLER. 
-----select (YEAR(GETDATE()) - YEAR(CONVERT(DATE, hiredate))) AS Experience from employees where ename = 'MILLER'
+select YEAR('2023')-YEAR(hiredate) as "Experience" from employees where ename='Miller'
+
