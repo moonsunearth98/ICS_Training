@@ -28,6 +28,7 @@ values
 create table clients_2nf(
 c_number varchar(255) Primary key,
 c_name varchar(255)
+
 )
 
 -- Insert values into the Clients table
