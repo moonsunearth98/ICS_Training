@@ -1,5 +1,4 @@
 create database Assignment_Q3
-
 use prachib_assignment2
 
 create table Holidays_details

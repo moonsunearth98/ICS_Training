@@ -45,16 +45,17 @@ VALUES
 ------------SELECT * FROM reviews
 -- Query to fetch details of books written by authors whose name ends with "er"
 
+--1.
 SELECT title, author FROM books WHERE author LIKE '%er';
 
--- Query to display Title, Author, and ReviewerName for all books
+---2.Query to display Title, Author, and ReviewerName for all books
 SELECT b.title, b.author, r.reviewer_name FROM books b JOIN reviews r ON b.id = r.id;
 
-/*2.Display the  reviewer name who reviewed more than one book. */
+--3.Display the  reviewer name who reviewed more than one book. */
 
 SELECT reviewer_name FROM reviews GROUP BY reviewer_name HAVING COUNT(DISTINCT book_id) > 1;
 
-/*3.Display the Name for the customer from above customer table  who live in same address which has character o anywhere in address--------*/
+--.Display the Name for the customer from above customer table  who live in same address which has character o anywhere in address--------*/
 
 ---------- Creating a table---------
 
@@ -79,11 +80,11 @@ VALUES
 
 --------------SELECT * FROM Customer
 
--- Query to find customer names with 'o' in the address
+---4.Query to find customer names with 'o' in the address
 
 SELECT C1.Name FROM Customer C1 WHERE EXISTS (SELECT 1 FROM Customer C2 WHERE C2.Address LIKE '%o%' AND C1.Address = C2.Address)
 
-/* 4.Write a query to display the Date,Total no of customer  placed order on same Date */
+/* Write a query to display the Date,Total no of customer  placed order on same Date */
 
 ---- creating table for orders---------
 
@@ -104,12 +105,12 @@ VALUES
     (101, '2009-11-20', 2, 1560),
     (103, '2008-05-20', 4, 2060);
 
--- Query to display the date and the total number of customers who placed orders on the same date
+-- 5.Query to display the date and the total number of customers who placed orders on the same date
 SELECT Order_Date,COUNT(DISTINCT Customer_ID) 'NO_OF_ORDER' FROM ORDERS GROUP BY Order_Date 
 
 
 
-/* 5.Display the Names of the Employee in lower case, whose salary is null */
+/* .Display the Names of the Employee in lower case, whose salary is null */
 
 -----Creating Employee Table------------
 
@@ -122,6 +123,7 @@ CREATE TABLE Employee (
 )
 
 -- Insert data into the Employee table
+
 INSERT INTO Employee(EmpID, EmpName, EmpAge, EmpAddress, EmpSalary)
 VALUES
     (1, 'Ramesh', 32, 'Ahmedabad', 200.00),
@@ -133,11 +135,11 @@ VALUES
     (7, 'Muffy', 24, 'Indore', Null)
 
 ------------------SELECT * FROM Employee
---Query to display the names of the employee in lower case, whose salary is null
+--6.Query to display the names of the employee in lower case, whose salary is null
 
 SELECT LOWER(EmpName) AS "LowerCse" FROM Employee WHERE EmpSalary IS NULL;
 
-/*-----6. Write a sql server query to display the Gender,Total no of male and female from the above 
+/*-----. Write a sql server query to display the Gender,Total no of male and female from the above 
                    relation in Student Table----*/
 
 ------------ Creating a Student Table--------
@@ -161,7 +163,7 @@ VALUES
     (6, 'SaiSaran', 21,'BA','7890345678','saran@gmail.com','Madurai','F'),
     (7, 'Torn', 23, 'BCA', '8901234675', 'Torn@gmail.com', 'Pune','M')
 
-------- Write a sql server query to display the Gender,Total no of male and female
+--7.Write a sql server query to display the Gender,Total no of male and female
           
 SELECT Gender, COUNT(*) AS Total_Count FROM StudentDetails GROUP BY Gender;
 
