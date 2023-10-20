@@ -35,12 +35,16 @@ namespace Assignment_6
         };
 
             // 1. Display a list of all employees who have joined before 1/1/2015
+            Console.WriteLine("------------------------------------------------------");
+            Console.WriteLine("------------------------------------------------------");
+
             var joinedBefore2015 = empList.Where(e => e.DOJ < new DateTime(2015, 1, 1));
             Console.WriteLine("Employees joined before 1/1/2015:");
             foreach (var employee in joinedBefore2015)
             {
                 Console.WriteLine($"{employee.FirstName} {employee.LastName}");
             }
+            Console.WriteLine("------------------------------------------------------");
 
             // 2. Display a list of all employees whose date of birth is after 1/1/1990
             var dobAfter1990 = empList.Where(e => e.DOB > new DateTime(1990, 1, 1));
@@ -49,6 +53,8 @@ namespace Assignment_6
             {
                 Console.WriteLine($"{employee.FirstName} {employee.LastName}");
             }
+            Console.WriteLine("------------------------------------------------------");
+
 
             // 3. Display a list of all employees whose designation is Consultant or Associate
             var consultantsAndAssociates = empList.Where(e => e.Title == "Consultant" || e.Title == "Associate");
@@ -57,26 +63,35 @@ namespace Assignment_6
             {
                 Console.WriteLine($"{employee.FirstName} {employee.LastName}");
             }
+            Console.WriteLine("------------------------------------------------------");
 
             // 4. Display the total number of employees
             int totalEmployees = empList.Count;
             Console.WriteLine($"\nTotal number of employees: {totalEmployees}");
+            Console.WriteLine("------------------------------------------------------");
 
             // 5. Display the total number of employees belonging to "Chennai"
             int chennaiEmployees = empList.Count(e => e.City == "Chennai");
             Console.WriteLine($"Total number of employees in Chennai: {chennaiEmployees}");
+            Console.WriteLine("------------------------------------------------------");
 
             // 6. Display the highest employee ID from the list
             int highestEmployeeID = empList.Max(e => e.EmployeeID);
             Console.WriteLine($"Highest Employee ID: {highestEmployeeID}");
+            Console.WriteLine("------------------------------------------------------");
+
 
             // 7. Display the total number of employees who have joined after 1/1/2015
             int joinedAfter2015 = empList.Count(e => e.DOJ > new DateTime(2015, 1, 1));
             Console.WriteLine($"Total employees joined after 1/1/2015: {joinedAfter2015}");
+            Console.WriteLine("------------------------------------------------------");
+
 
             // 8. Display the total number of employees whose designation is not "Associate"
             int notAssociateEmployees = empList.Count(e => e.Title != "Associate");
             Console.WriteLine($"Total employees with designation other than Associate: {notAssociateEmployees}");
+            Console.WriteLine("------------------------------------------------------");
+
 
             // 9. Display the total number of employees based on City
             var employeesByCity = empList.GroupBy(e => e.City);
@@ -85,6 +100,8 @@ namespace Assignment_6
             {
                 Console.WriteLine($"{group.Key}: {group.Count()}");
             }
+            Console.WriteLine("------------------------------------------------------");
+
 
             // 10. Display the total number of employees based on City and Title
             var employeesByCityAndTitle = empList.GroupBy(e => new { e.City, e.Title });
@@ -93,10 +110,12 @@ namespace Assignment_6
             {
                 Console.WriteLine($"{group.Key.City}, {group.Key.Title}: {group.Count()}");
             }
+            Console.WriteLine("------------------------------------------------------");
 
             // 11. Display the youngest employee in the list
             var youngestEmployee = empList.OrderBy(e => e.DOB).First();
             Console.WriteLine($"\nYoungest employee: {youngestEmployee.FirstName} {youngestEmployee.LastName}");
+            Console.WriteLine("------------------------------------------------------");
             Console.ReadLine();
         }
     }
