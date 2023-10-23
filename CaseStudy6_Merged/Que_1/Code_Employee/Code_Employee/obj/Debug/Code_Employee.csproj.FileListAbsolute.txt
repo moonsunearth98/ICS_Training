@@ -1,0 +1,14 @@
+D:\Training_ICS\CaseStudy6_Merged\Code_Employee\Code_Employee\bin\Debug\Code_Employee.exe.config
+D:\Training_ICS\CaseStudy6_Merged\Code_Employee\Code_Employee\bin\Debug\Code_Employee.exe
+D:\Training_ICS\CaseStudy6_Merged\Code_Employee\Code_Employee\bin\Debug\Code_Employee.pdb
+D:\Training_ICS\CaseStudy6_Merged\Code_Employee\Code_Employee\obj\Debug\Code_Employee.csproj.AssemblyReference.cache
+D:\Training_ICS\CaseStudy6_Merged\Code_Employee\Code_Employee\obj\Debug\Code_Employee.csproj.CoreCompileInputs.cache
+D:\Training_ICS\CaseStudy6_Merged\Code_Employee\Code_Employee\obj\Debug\Code_Employee.exe
+D:\Training_ICS\CaseStudy6_Merged\Code_Employee\Code_Employee\obj\Debug\Code_Employee.pdb
+D:\Training_ICS\CaseStudy6_Merged\Que_1\Code_Employee\Code_Employee\bin\Debug\Code_Employee.exe.config
+D:\Training_ICS\CaseStudy6_Merged\Que_1\Code_Employee\Code_Employee\bin\Debug\Code_Employee.exe
+D:\Training_ICS\CaseStudy6_Merged\Que_1\Code_Employee\Code_Employee\bin\Debug\Code_Employee.pdb
+D:\Training_ICS\CaseStudy6_Merged\Que_1\Code_Employee\Code_Employee\obj\Debug\Code_Employee.csproj.AssemblyReference.cache
+D:\Training_ICS\CaseStudy6_Merged\Que_1\Code_Employee\Code_Employee\obj\Debug\Code_Employee.csproj.CoreCompileInputs.cache
+D:\Training_ICS\CaseStudy6_Merged\Que_1\Code_Employee\Code_Employee\obj\Debug\Code_Employee.exe
+D:\Training_ICS\CaseStudy6_Merged\Que_1\Code_Employee\Code_Employee\obj\Debug\Code_Employee.pdb
