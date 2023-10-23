@@ -15,19 +15,28 @@ namespace EmployeeManagementApp
 
                 using (SqlCommand command = new SqlCommand("AddEmployee", connection))
                 {
+                    Console.WriteLine("Enter Emlpoyee Name");
+                    string name = Console.ReadLine();
+                    Console.WriteLine("Enter the Employee Salary");
+                    decimal sal = Convert.ToDecimal(Console.ReadLine());
+                    Console.WriteLine("Employee Type P or F");
+                    char type = Convert.ToChar(Console.Read());
+
                     command.CommandType = CommandType.StoredProcedure;
-                    command.Parameters.AddWithValue("@empname", "Puru Baranwal");
-                    command.Parameters.AddWithValue("@empsal", 98000.00);
-                    command.Parameters.AddWithValue("@emptype", "F");
+                    command.Parameters.AddWithValue("@empname", name);
+                    command.Parameters.AddWithValue("@empsal", sal);
+                    command.Parameters.AddWithValue("@emptype", type);
 
                     command.ExecuteNonQuery();
                 }
+                
             }
 
             Console.WriteLine("Employee added successfully.");
 
             // Display all records
             DisplayAllEmployeeRecords(connectionString);
+            Console.Read();
         }
 
         // Define the DisplayAllEmployeeRecords method outside of Main

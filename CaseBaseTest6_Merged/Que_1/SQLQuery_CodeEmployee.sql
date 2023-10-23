@@ -12,6 +12,7 @@ d. Display all the records (including the newely added record)*/
 create database prachi_codebase6
 use prachi_codebase6
 
+
 ---- a)Create a table called Code_Employee
 
 create table Code_Employee
@@ -21,6 +22,7 @@ create table Code_Employee
     empsal numeric(10,2) check (empsal >= 25000),
     emptype char(1) check (emptype IN ('F', 'P'))
 );
+select * from Code_Employee
 
 ---- b)Create a stored procedure to add new employee records.
 create procedure AddEmployee
@@ -38,8 +40,12 @@ begin
     insert into Code_Employee (empno, empname, empsal, emptype)
     values (@newEmpNo, @empname, @empsal, @emptype);
 end;
+
+
  
  ---- test the stored procedure
  -- Execute the stored procedure to add a new employee
 exec AddEmployee 'Prachi Baranwal', 80000.00, 'F';
+
+select * from Code_Employee
 
