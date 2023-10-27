@@ -1,0 +1,7 @@
+D:\Training_ICS\New folder\Project\Project\bin\Debug\Project.exe.config
+D:\Training_ICS\New folder\Project\Project\bin\Debug\Project.exe
+D:\Training_ICS\New folder\Project\Project\bin\Debug\Project.pdb
+D:\Training_ICS\New folder\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Training_ICS\New folder\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Training_ICS\New folder\Project\Project\obj\Debug\Project.exe
+D:\Training_ICS\New folder\Project\Project\obj\Debug\Project.pdb
