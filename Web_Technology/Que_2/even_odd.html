@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odd or Even Checker</title>
+</head>
+<body>
+    <h1>Odd or Even Checker</h1>
+    <ul id="result"></ul>
+
+    <script>
+        const resultList = document.getElementById('result');
+
+        for (let i = 0; i <= 15; i++) {
+            const listItem = document.createElement('li');
+            listItem.textContent = `${i} is ${i % 2 === 0 ? 'even' : 'odd'}`;
+            resultList.appendChild(listItem);
+        }
+    </script>
+</body>
+</html>
