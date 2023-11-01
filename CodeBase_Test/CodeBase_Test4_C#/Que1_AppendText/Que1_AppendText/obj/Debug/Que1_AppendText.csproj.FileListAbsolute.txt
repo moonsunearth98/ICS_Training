@@ -1,0 +1,7 @@
+D:\Training_ICS\CSharp_Training\CodeBase_Test\CodeBase_Test4\Que1_AppendText\Que1_AppendText\bin\Debug\Que1_AppendText.exe.config
+D:\Training_ICS\CSharp_Training\CodeBase_Test\CodeBase_Test4\Que1_AppendText\Que1_AppendText\bin\Debug\Que1_AppendText.exe
+D:\Training_ICS\CSharp_Training\CodeBase_Test\CodeBase_Test4\Que1_AppendText\Que1_AppendText\bin\Debug\Que1_AppendText.pdb
+D:\Training_ICS\CSharp_Training\CodeBase_Test\CodeBase_Test4\Que1_AppendText\Que1_AppendText\obj\Debug\Que1_AppendText.csproj.CoreCompileInputs.cache
+D:\Training_ICS\CSharp_Training\CodeBase_Test\CodeBase_Test4\Que1_AppendText\Que1_AppendText\obj\Debug\Que1_AppendText.exe
+D:\Training_ICS\CSharp_Training\CodeBase_Test\CodeBase_Test4\Que1_AppendText\Que1_AppendText\obj\Debug\Que1_AppendText.pdb
+D:\Training_ICS\CSharp_Training\CodeBase_Test\CodeBase_Test4\Que1_AppendText\Que1_AppendText\obj\Debug\Que1_AppendText.csproj.AssemblyReference.cache

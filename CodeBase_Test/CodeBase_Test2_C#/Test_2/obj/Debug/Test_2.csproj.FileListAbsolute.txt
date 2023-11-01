@@ -1,0 +1,7 @@
+D:\Training_ICS\CSharp_Training\CodeBase_Test\Test_2\Test_2\obj\Debug\Test_2.csproj.AssemblyReference.cache
+D:\Training_ICS\CSharp_Training\CodeBase_Test\Test_2\Test_2\obj\Debug\Test_2.csproj.CoreCompileInputs.cache
+D:\Training_ICS\CSharp_Training\CodeBase_Test\Test_2\Test_2\bin\Debug\Test_2.exe.config
+D:\Training_ICS\CSharp_Training\CodeBase_Test\Test_2\Test_2\bin\Debug\Test_2.exe
+D:\Training_ICS\CSharp_Training\CodeBase_Test\Test_2\Test_2\bin\Debug\Test_2.pdb
+D:\Training_ICS\CSharp_Training\CodeBase_Test\Test_2\Test_2\obj\Debug\Test_2.exe
+D:\Training_ICS\CSharp_Training\CodeBase_Test\Test_2\Test_2\obj\Debug\Test_2.pdb
