@@ -1,0 +1,33 @@
+﻿@model List<Question_2.Models.Movie>
+
+@{
+    ViewBag.Title = "Movies by Year";
+}
+
+<h2>Movies by Year</h2>
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Moviename)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateofRelease)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Moviename)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateofRelease)
+            </td>
+        </tr>
+    }
+</table>
